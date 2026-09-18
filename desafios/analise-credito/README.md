@@ -34,7 +34,7 @@ Cada linha representa uma **proposta de crédito** e reúne informações sobre 
 
 Os dados representam os **registros recebidos pela equipe de dados** e devem ser analisados antes de qualquer decisão sobre sua utilização na modelagem.
 
-# 🎯 Desafio
+## 🎯 Desafio
 
 A equipe da CredAIR precisa utilizar o histórico de propostas para compreender melhor os fatores relacionados à inadimplência e investigar se é possível utilizar as informações disponíveis para apoiar a identificação de propostas de maior risco.
 
@@ -42,7 +42,7 @@ A partir dos dados fornecidos, desenvolva uma análise que percorra as principai
 
 Não existe uma única forma correta de realizar todas as etapas. Suas escolhas devem ser justificadas de acordo com o problema e com as características dos dados.
 
-## 1. Entendimento do problema
+### 1. Entendimento do problema
 
 Analise o contexto apresentado e as variáveis disponíveis.
 
@@ -53,7 +53,7 @@ Você deverá:
 * caracterizar o problema de Machine Learning;
 * justificar por que o problema pode ser tratado como um problema de **classificação**.
 
-## 2. Análise exploratória
+### 2. Análise exploratória
 
 Investigue os dados antes de realizar a modelagem.
 
@@ -66,7 +66,7 @@ Sua análise deverá:
 
 Utilize tabelas, estatísticas e visualizações quando forem relevantes para sustentar suas conclusões.
 
-## 3. Limpeza e preparação dos dados
+### 3. Limpeza e preparação dos dados
 
 Avalie a qualidade dos dados e realize os tratamentos necessários para utilizá-los nas etapas seguintes.
 
@@ -79,7 +79,7 @@ Você deverá:
 * adequar os tipos e formatos das variáveis;
 * justificar as principais decisões tomadas.
 
-## 4. Engenharia de atributos
+### 4. Engenharia de atributos
 
 Avalie se as variáveis disponíveis representam adequadamente o problema.
 
@@ -91,7 +91,7 @@ Você deverá:
 * justificar sua possível relação com a inadimplência;
 * avaliar se ela será utilizada no modelo.
 
-## 5. Preparação para modelagem
+### 5. Preparação para modelagem
 
 Prepare os dados para a construção do modelo.
 
@@ -105,7 +105,7 @@ Você deverá:
 
 Explique as principais decisões tomadas durante essa etapa.
 
-## 6. Modelagem
+### 6. Modelagem
 
 Desenvolva um modelo de **Regressão Logística** utilizando os dados preparados nas etapas anteriores.
 
@@ -115,7 +115,7 @@ Apresente:
 * o processo utilizado para treinamento;
 * os resultados obtidos pelo modelo.
 
-## 7. Avaliação e interpretação
+### 7. Avaliação e interpretação
 
 Avalie o desempenho do modelo utilizando dados que não participaram do treinamento.
 
@@ -127,7 +127,7 @@ Você deverá:
 * analisar quais variáveis apresentam maior relação com o resultado previsto;
 * discutir o que os resultados representam para o problema da CredAIR.
 
-## 8. Conclusão
+### 8. Conclusão
 
 Finalize a análise apresentando as principais conclusões obtidas durante o desenvolvimento.
 
@@ -139,7 +139,7 @@ Sua conclusão deverá abordar:
 * as limitações da análise;
 * possíveis cuidados para utilização desse tipo de modelo em uma situação real.
 
-# 🎤 Apresentação
+## 🎤 Apresentação
 
 Além do notebook, você deverá apresentar o desenvolvimento do desafio.
 
@@ -160,9 +160,9 @@ A apresentação deverá abordar:
 
 A apresentação deve demonstrar que você compreendeu as decisões tomadas durante o desenvolvimento, e não apenas apresentar os resultados finais.
 
-# 📦 Entregáveis
+## 📦 Entregáveis
 
-## Notebook
+### Notebook
 
 Um notebook organizado e executável contendo todo o desenvolvimento da análise.
 
@@ -178,13 +178,13 @@ O **link para o repositório do GitHub deverá ser disponibilizado junto à entr
 
 Antes da entrega, execute o notebook do início ao fim para garantir que todas as células sejam executadas corretamente.
 
-## Apresentação
+### Apresentação
 
 Uma apresentação contendo o desenvolvimento e os principais resultados do desafio.
 
 A apresentação deverá ser realizada **via Microsoft Teams, em uma reunião individual com um dos monitores da trilha**, em data e horário definidos pela organização.
 
-# 💻 Prática de Git e GitHub
+## 💻 Prática de Git e GitHub
 
 A prática de **Git e GitHub faz parte deste desafio**.
 
